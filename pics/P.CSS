@@ -1,0 +1,218 @@
+
+body {
+    background-color: ecf0f1;
+}
+.x{
+    background-color: white;
+}
+
+.center-div {
+        margin-right:150px ;
+        padding: 15px;
+        background-color: white;
+        margin-left: 325px;
+    }
+    
+    body {
+        background-color: rgb(224, 222, 222);
+    }
+    
+    
+    .topnav {
+      
+        background-color: #f9f9f9;
+        height: 60px;
+    }
+    
+       
+    .thetop a.active2 {
+        background-color: #04a7d0;
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+        border-radius: 5px;
+        height: 5px;
+        line-height: 2px;
+    }
+    
+    .thetop a.active {
+        background-color: #11bf46;
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+        border-radius: 5px;
+        height: 4px;
+        line-height: 2px;
+    }
+    
+   img.logo {
+        float: right;
+       margin-right: 101px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+          width: 80px;
+    }
+    
+.x input[type=search] {
+    
+        border-radius: 5px;
+        border: 5px;
+           font-size: 17px;
+             width: 440px;
+             margin-left:400px ;
+             margin-top:20px ;
+        line-height: 4px;
+    }
+    
+    .boxed  {
+        padding-top: 20px;
+        margin-top: 20px;
+        border: 0px solid gray;
+        height: 150px;
+        width: 200px;
+        border-radius: 2px;
+        background-color: white;
+    }
+    
+    .boxed a.face , .boxed a.twitter {
+
+   margin-left: 60px;
+        color: 0962b2;
+    }
+    
+ 
+    .boxed img.face {
+        height: 20px;
+        width: 20px;
+        border-radius: 3px;
+    }
+    
+    .boxed img.twitter {
+        height: 20px;
+        width: 20px;
+        border-radius: 3px;
+        margin-top: 10px;
+    }
+    
+    #contents {
+        background-color: rgb(228, 227, 227);
+        overflow: auto;
+        margin: auto;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    #sidebar .row    .button  {
+        background-color: white;
+        border-radius: 12px;
+        width: 150px;
+        height: 50px;
+        font-size: 20px;
+        border:5px;
+        border-style: solid;
+border-color: rgb(212, 221, 230) ;        }
+    
+    #sidebar .row {
+        width: 10%;
+        margin: 20px;
+    }
+    #sidebar .row .button .active2{
+        color: red;
+    }
+ 
+   #sidebar {
+        
+        float: left;
+      margin-left: 10px;
+        margin-top: 20px;
+    }
+    #sidebar2{
+
+        float:right;
+    padding: 10px;
+  margin-right: 5px;
+  height: 200px;
+
+         background-color: white;
+    }
+
+.above{
+    float: left;
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    margin: 0px;
+    background-color: #27a465;
+    color: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    width: 600px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: 100px;
+    border-top: 3px double #f1f1f1;
+    border-bottom: 3px double #f1f1f1;
+    padding-top: 20px;
+}
+
+#main table {
+    font-family: "Comic Sans MS", cursive;
+}
+/* css code for textbox */
+
+#main .tb {
+    height: 100px;
+    width: 2200px;
+    border: 1px solid #27a465;
+    color: #27a465;
+    font-weight: bold;
+    border-left: 5px solid #f7f7f7;
+    opacity: 0.9;
+}
+/* css code for button*/
+
+#main .btn {
+    width: 30px;
+    height: 20px;
+    outline: none;
+    font-weight: bold;
+    border: 0px solid #27a465;
+    text-shadow: 0px 0.5px 0.5px #fff;
+    border-radius: 2px;
+    font-weight: 600;
+    color: #27a465;
+    letter-spacing: 1px;
+    font-size: 14px;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+}
+
+#main .btn:hover {
+    background-color: #27a465;
+    outline: none;
+    border-radius: 2px;
+    color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+}
+ 
+.row .col-3 .card{
+    margin:30px 20px 30px 40px;
+
+}
